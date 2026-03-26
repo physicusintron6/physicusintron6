@@ -1,5 +1,4 @@
-## Hi there 👋  
-am *Euticus Kamau*  
+## Hi there 👋 am *Euticus Kamau*  
 Holder of Degree in *Computer Science*  
 MUT [Murang'a University of Technology]  
 *Front-End Web Developer*  
