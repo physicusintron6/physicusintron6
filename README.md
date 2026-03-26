@@ -1,8 +1,8 @@
-## Hi there 👋
-am *Euticus Kamau*
-Holder of Degree in *Computer Science*
-MUT [Murang'a University of Technology]
-*Front-End Web Developer*
+## Hi there 👋  
+am *Euticus Kamau*  
+Holder of Degree in *Computer Science*  
+MUT [Murang'a University of Technology]  
+*Front-End Web Developer*  
 
 <!--
 **physicusintron6/physicusintron6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
